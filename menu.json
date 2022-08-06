@@ -1,0 +1,26 @@
+{
+    "menuitems": [
+        {
+            "id": 1,
+            "name": "Rajma",
+            "price": 10.00,
+            "category": "Main Cource",
+            "availabletime": "breakfast, lunch, dinner, evening"
+        },
+        {
+            "id": 2,
+            "name": "Chawal",
+            "category": "Main Cource",
+            "price": 20.00,
+            "availabletime": "breakfast, lunch, dinner, evening"
+        }
+        ,
+        {
+            "id": 3,
+            "name": "Paneer Pakoda",
+            "category": "Starter",
+            "price": 20.00,
+            "availabletime": "breakfast"
+        }
+    ]
+}
