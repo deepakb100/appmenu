@@ -2,7 +2,7 @@
     "breakfast": [
         {
             "mealtype": "Starter",
-            "meal": "Breafast Starter 1, Starter 2 etc",
+            "meal": "Breafast Starter 1, Starter 2 etc"
         },
         {
             "mealtype": "Breads",
