@@ -1,8 +1,12 @@
 {
     "breakfast": [
         {
+            "mealtype": "Starter",
+            "meal": "Breafast Starter 1, Starter 2 etc",
+        },
+        {
             "mealtype": "Breads",
-            "meal": "Breafast Roti, Paratha, Naan, etc"
+            "meal": "Breafast Roti, Paratha, Naan, Rumali,etc"
         },
         {
             "mealtype": "Drinks",
